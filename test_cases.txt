@@ -1,0 +1,8 @@
+Input : 95 -> Grade A
+Input : 85 -> Grade B
+Input : 75 -> Grade C
+Input : 65 -> Grade D
+Input : 45 -> Grade F
+If the input is
+ Input : -5 -> Invalid (retry)
+ Input : 120 -> Invalid (retry)
